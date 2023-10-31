@@ -1,0 +1,5 @@
+psycopg (3.1.12) stable; urgency=medium
+
+  * New upstream realease
+
+ -- Dmitriy Konichev <dima@example.com>  Fri, 27 Oct 2023 00:19:10 +0300

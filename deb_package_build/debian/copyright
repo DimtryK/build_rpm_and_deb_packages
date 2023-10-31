@@ -1,0 +1,8 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: DimtryK
+Source: http://example.com/files/
+Files: *
+Copyright: 2023 DimtryK
+Licence: Expat
+Licence: Expat 
+    text of licence

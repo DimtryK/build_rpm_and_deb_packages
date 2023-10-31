@@ -1,0 +1,13 @@
+Source: psycopg
+Maintainer: DimtryK "dima@example.com"
+Section: python 
+Priority: optional
+Build-Depends: debhelper (>= 10), python3-all, python3-setuptools
+Standards-Version: 3.9.8
+Homepage: https://pypi.org/project/psycopg/#files
+
+Package: psycopg
+Architecture: all
+Depends: ${python3:Depends}, ${misc:Depends}
+Description: example python-psycopg package built
+
